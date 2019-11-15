@@ -1,7 +1,7 @@
 # Simplify-BiLSTM-CRF
-## ide：jupyter
+## ide：jupyter notebook
 
 ## framework：
-+ keras +
-+ pycrfsuit +
-+ annoy +
++ keras 
++ pycrfsuit 
++ annoy 
